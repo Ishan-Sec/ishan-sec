@@ -23,7 +23,6 @@
 
 ---
 
-📧 your.email@example.com  
 💼 [LinkedIn](https://linkedin.com/in/ish4n)  
 ---
 “Cybersecurity is about resilience, not just prevention.”
