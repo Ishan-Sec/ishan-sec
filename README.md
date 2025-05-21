@@ -1,16 +1,29 @@
-## Hi there 👋
+ 👋 Hi, I’m Ishan
 
-<!--
-**Ishan-Sec/ishan-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Cybersecurity Incident Responder** | 🔐 IR Specialist | ⚙️ Threat Hunter | Threat Intell | DFIR 
+📍 Based in India | 💼 Security Engineer II at NCR Voyix
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🛡️ 5+ years securing infrastructure, users, and data for enterprise & product environments
+- 🔄 Incident responder for phishing, malware, and data exfiltration attacks
+- ✍️ Building automation tools in Python for IOC enrichment, detection, and reporting
+- 🧠 Passionate about threat intelligence, MITRE ATT&CK, and blue team tooling
+- 💬 Currently researching insider threats and Incident Response design for hybrid environments
+
+---
+
+### 🧰 Tech & Tools
+
+`Python` `Splunk` `Sentinel` `CrowdStrike` `Defender AIR` `Wireshark` `EDR`  
+`VirusTotal API` `GreyNoise` `AbuseIPDB` `Slack Webhooks` `MITRE ATT&CK`  
+`AWS` `Azure` `ISO27001` `SOC2` `DLP , Crowdstrike , Proofpoint , Cisco Suite , Google Chronicle , Mandiant Advantage , Recorded Future .
+
+---
+
+📧 your.email@example.com  
+💼 [LinkedIn](https://linkedin.com/in/ish4n)  
+---
+“Cybersecurity is about resilience, not just prevention.”
